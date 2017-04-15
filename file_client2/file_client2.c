@@ -130,6 +130,8 @@ int main(int argc, char *argv[]) {
 					printf("read data = %d bytes : %s", n, buf);
 					if (fwrite(buf, n, 1, fp) == NULL) {
 						printf("fwrite error\n");
+						//111
+
 						break;
 					}
 			}
