@@ -1,4 +1,4 @@
 - data2.txt -
-Test file ABCDEFG
+Test file ABCDEFG123
 This is sample file
 파일 전송 샘플파일 입니다.
