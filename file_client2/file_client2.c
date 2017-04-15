@@ -132,6 +132,7 @@ int main(int argc, char *argv[]) {
 						printf("fwrite error\n");
 						//111
 
+						//add
 						break;
 					}
 			}
